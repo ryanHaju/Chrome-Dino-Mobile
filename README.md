@@ -1,1 +1,1 @@
-# Chrome-Dino-Mobile
+# trex-game
